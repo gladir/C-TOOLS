@@ -26,6 +26,10 @@ Voici la liste des différents fichiers proposés dans C-TOOLS :
 			<td><b>CB.PAS</b></td>
 			<td>Cette commande permet de rendre lisible le formatage d'un fichier de format C.</td>
 		</tr>
+		 <tr>
+			<td><b>CPP.PAS</b></td>
+			<td>Cette commande permet d'effectuer un traitement de préprocesseur de langage de porgrammation <a href="https://www.gladir.com/CODER/C/intro.htm">C</a>.</td>
+		</tr>	
 		<tr>
 			<td><b>CSV2C.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier CSV en code source C.</td>
