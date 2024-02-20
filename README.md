@@ -11,9 +11,46 @@ Voici la liste des différents fichiers proposés dans C-TOOLS :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>ASC2C.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier ASCII en code source C.</td>
+		</tr>
+		<tr>
+			<td><b>BIN2C.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier binaire en tableau de code source C.</td>
+		</tr>	
+		<tr>
 			<td><b>C2PAS.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier «.C» en «.PAS».</td>
-		</tr>	
+		</tr>
+		<tr>
+			<td><b>CB.PAS</b></td>
+			<td>Cette commande permet de rendre lisible le formatage d'un fichier de format C.</td>
+		</tr>
+		<tr>
+			<td><b>CSV2C.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier CSV en code source C.</td>
+		</tr>
+		<tr>
+			<td><b>DBF2C.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier .DBF (DBase III) en format C.</td>
+		</tr>		
+		<tr>
+			<td><b>ICO2C.PAS</b></td>
+			<td>Cette commande permet de transformer un icône (.ICO) en code source C.</td>
+		</tr>
+		<tr>
+			<td><b>PPM2C.PAS</b></td>
+			<td>Cette commande permet de convertir une image de format PPM (Portable PixMap) en code source C.</td>
+		</tr>
+		<tr>
+			<td><b>TSV2C.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier TSV en code source C.</td>
+		</tr>
+		<tr>
+			<td><b>XBM2C.PAS</b></td>
+			<td>Cette commande permet de convertir une image de format XBM (X BitMap) en code source C.</td>
+		</tr>
+	
 	</table>
 
 <h2>Compilation</h2>
