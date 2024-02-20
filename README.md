@@ -50,7 +50,6 @@ Voici la liste des différents fichiers proposés dans C-TOOLS :
 			<td><b>XBM2C.PAS</b></td>
 			<td>Cette commande permet de convertir une image de format XBM (X BitMap) en code source C.</td>
 		</tr>
-	
 	</table>
 
 <h2>Compilation</h2>
